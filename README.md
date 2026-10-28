@@ -26,7 +26,7 @@ A limited native camera-to-prediction-to-software-consumer path has also been re
 | **Shadow** | The proposed low-level human–robot loop: rapid human reactions and corrections, short-horizon prediction, robot-local feedback/protection, and feedback to the operator | Recorded-motion evaluation and software integration have been exercised; integrated physical-loop benefit, independent measurement validity and reliable anticipation remain open. |
 | **MechaLink** | Human task goals and revision, task semantics, ability/embodiment matching and authorised execution | Bounded simulated task and visual re-observation engineering; a distinct high-level method advantage over ordinary baselines is unproven. |
 
-![Conceptual architecture and evidence status](assets/architecture.svg)
+![Conceptual architecture and evidence status](assets/v6/authority-map.svg)
 
 The diagram explains the intended relationship between the layers. Its feedback arrow is conceptual; separate engineering tests do not establish a completed physical closed loop. Prediction supplies preparation, not permission.
 
