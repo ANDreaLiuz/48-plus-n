@@ -7,7 +7,7 @@ I started 48+N to study a practical problem: when a person directs a robot, the 
 
 **Engineering foundation:** real camera acquisition and software integration, recorded-motion forecasting and baseline evaluation, and bounded SO-101 task execution in MuJoCo. These remain separate evidence streams; a complete physical human-to-robot loop and comparative method superiority have not been established.
 
-[Research site — planned](https://andrealiuz.github.io/48-plus-n/site/index.html) · [Offline HTML source](site/offline.html) · [One-page research brief](RESEARCH_BRIEF.md) · [Research status](RESEARCH_STATUS.md)
+[Research site](https://andrealiuz.github.io/48-plus-n/site/index.html) · [Offline HTML source](site/offline.html) · [One-page research brief](RESEARCH_BRIEF.md) · [Research status](RESEARCH_STATUS.md)
 
 ## Evidence-backed engineering work
 
@@ -52,6 +52,6 @@ The portfolio text and original SVGs were prepared with AI assistance. No privat
 
 The research page uses local HTML, CSS and original SVGs. Download the repository and open `site/offline.html` in a modern browser for an offline preview; no build, account or package installation is required.
 
-**Research in progress · Selected frozen engineering evidence reviewed 28 October 2026.** Robotics manuscripts are in preparation; submission or acceptance is not claimed. No software or content license has been selected. Publication and reuse terms require the author's decision.
+**Research in progress · Selected frozen engineering evidence reviewed 28 October 2026.** Robotics manuscripts are in preparation; submission or acceptance is not claimed. No software or content license has been selected. Public viewing does not grant a general reuse license.
 
-These website addresses are planned release destinations and have not been verified as active. The offline HTML source is a file view on GitHub; download the repository and open `site/offline.html` to run it locally. Markdown notes remain local files in that edition.
+The GitHub repository and Pages links were checked on 28 October 2026. The offline HTML source is a file view on GitHub; download the repository and open `site/offline.html` to run it locally. Markdown notes remain local files in that edition.
