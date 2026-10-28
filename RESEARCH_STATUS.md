@@ -1,6 +1,6 @@
 # Research status
 
-**Research in progress · Baseline release evidence reviewed 23 October 2026; selected subsequent frozen engineering records reviewed 28 October 2026.**
+**Research in progress · Baseline release evidence reviewed 23 October 2026; selected subsequent frozen engineering records reviewed 28 October 2026.** Shadow and MechaLink are continuing, parallel research directions, supported by sensing, prediction, weak-link, robot perception and embodiment studies. Two distinct robotics papers are under development, with no submission or acceptance claimed.
 
 | Area | Evidence reviewed | What can be concluded | What remains open |
 |---|---|---|---|

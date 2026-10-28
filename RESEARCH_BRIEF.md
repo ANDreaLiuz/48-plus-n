@@ -4,11 +4,19 @@
 
 ## Research question
 
-How can near-term motion information help a person direct an embodied system while task authority remains explicit? 48+N investigates this question through predictive preparation, human–robot interaction and task coordination across embodiment capabilities.
+How can a person direct an embodied system while human reactions, uncertain observations, predictive preparation, robot-local feedback and changing task requirements unfold together? 48+N investigates this through two connected research directions: Shadow at the low-level interaction loop and MechaLink at the level of task meaning, embodied capabilities and human-directed revision. Human authority remains explicit.
 
 ## Architecture
 
 The intended architecture connects a human goal, sensing, Shadow's predictive preparation, explicit human authority, MechaLink's task and embodiment coordination, an executor and feedback. Shadow studies ongoing low-level coordination through human corrections, short-horizon prediction, robot-local response and feedback to the operator; MechaLink concerns what the task requires of a proposed body. Prediction supplies preparation, not permission.
+
+## Continuing research directions
+
+**Shadow — low-level interaction:** Bidirectional human–robot coordination: immediate human corrections, short-horizon motion prediction, robot-local responses and protective behaviour, weak-link handling, and feedback to the operator. The goal is to establish what these mechanisms actually contribute under measured input and timing conditions.
+
+**MechaLink — task and embodiment:** Interpreting human goals, allocating actions to a robot's capabilities, and handling in-execution revisions without losing valid physical state. The research tests such ideas against ordinary control and replanning alternatives.
+
+These directions are developed in parallel, alongside sensing and calibration, motion representation, robot re-observation, simulation and future physical verification. Two related robotics papers are being developed: Shadow is being prepared with IEEE RA-L as the intended venue, and MechaLink is a separate developing study whose contribution remains under evaluation. Neither work is submitted or accepted.
 
 ## Engineering foundation
 
@@ -24,7 +32,7 @@ These are separate evidence streams, not a completed human-to-physical-robot eva
 
 ## Prospective PhD direction
 
-Prospective PhD work would investigate measurement-aware predictive interfaces and human-supervised embodied coordination. The evaluation question is whether preparation improves a meaningful task outcome beyond a strong simple baseline, without confusing observation, prediction, permission and applied action. Progress would require independent measurements, explicit uncertainty and separately authorized physical evaluation.
+Prospective PhD work would deepen both connected directions: when low-level prediction and robot-local response add meaningful value in a human-directed control loop, and how task-level autonomy can adapt to changing human instructions and embodiment capabilities. Evaluations would compare against strong ordinary baselines while keeping observations, predictions, authorization, applied actions and measured outcomes distinct. Physical verification would follow calibration, independent measurement and separately authorized safety review.
 
 ## Contribution and status
 
