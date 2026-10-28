@@ -7,7 +7,7 @@ I independently initiated 48+N as a continuing research programme in human-direc
 
 **Engineering foundation:** real camera acquisition and software integration, recorded-motion forecasting and baseline evaluation, and bounded SO-101 task execution in MuJoCo. These remain separate evidence streams; a complete physical human-to-robot loop and comparative method superiority have not been established.
 
-[Research site](https://andrealiuz.github.io/48-plus-n/site/index.html) · [Offline HTML source](site/offline.html) · [One-page research brief](RESEARCH_BRIEF.md) · [Research status](RESEARCH_STATUS.md)
+[Research site](https://andrealiuz.github.io/48-plus-n/site/index.html) · [Offline HTML source](site/offline.html) · [Research brief](RESEARCH_BRIEF.md) · [Research status](RESEARCH_STATUS.md)
 
 ## Evidence-backed engineering work
 
@@ -40,7 +40,7 @@ The diagram explains the intended relationship between the layers. Its feedback 
 - What can remain meaningful about a task goal when the body's capabilities change?
 - Which independent measurements and physical outcomes are needed before these layers can support a stronger integrated claim?
 
-The [one-page brief](RESEARCH_BRIEF.md) connects these questions to the engineering foundation and prospective PhD direction. Further reading: [evidence overview](docs/evidence_overview.md), [methods and limitations](METHODS_AND_LIMITATIONS.md), [research questions](docs/research_questions.md) and [public roadmap](docs/public_roadmap.md).
+The [research brief](RESEARCH_BRIEF.md) connects these questions to the engineering foundation and prospective PhD direction. Further reading: [evidence overview](docs/evidence_overview.md), [methods and limitations](METHODS_AND_LIMITATIONS.md), [research questions](docs/research_questions.md) and [public roadmap](docs/public_roadmap.md).
 
 ## The name
 
